@@ -16,7 +16,7 @@
 ### Me encontre nas redes sociais! 😃 
 * Me siga no [Instagram](https://www.instagram.com/saviosousa31/)!
 * Me encontre no [GitHub](https://github.com/saviosousa31)!
-* Conecte-se comigo no [LinkedIn](www.linkedin.com/in/sávio-soares-sousa-5b8780174)!
+* Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/s%C3%A1vio-soares-sousa-5b8780174/)!
 ---
 ### Minhas estatísticas no GitHub:
 
