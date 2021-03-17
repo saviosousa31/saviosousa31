@@ -20,4 +20,4 @@
 ---
 ### Minhas estatísticas no GitHub:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saviosousa31&layout=compact&hide_border=true&langs_count=10)  ![](https://komarev.com/ghpvc/?username=saviosousa31&layout=compact&hide_border=true&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saviosousa31&layout=compact&hide_border=true&langs_count=10) ![](https://github-readme-stats.vercel.app/api?username=saviosousa31&layout=compact&hide_border=true&langs_count=10) ![](https://komarev.com/ghpvc/?username=saviosousa31&layout=compact&hide_border=true&langs_count=10)
