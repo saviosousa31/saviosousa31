@@ -20,8 +20,6 @@
 ---
 ### Minhas estatísticas no GitHub:
 
-![Savio's github stats](https://github-readme-stats.vercel.app/api?username=saviosousa31)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviosousa31&layout=compact)](https://github.com/saviosousa31/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=saviosousa31&layout=compact&hide_border=true&langs_count=10)
