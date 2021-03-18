@@ -20,7 +20,7 @@
 ---
 ### Minhas estatísticas no GitHub:
 
-![Sávio's github stats](https://github-readme-stats.vercel.app/api?username=saviosousa31)
+[![Sávio's stats](https://github-readme-stats.vercel.app/api?username=saviosousa31)](https://github.com/saviosousa31/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviosousa31&layout=compact)](https://github.com/saviosousa31/github-readme-stats)
 
